@@ -1,4 +1,5 @@
-# EEG Stress & Emotion Analysis — SAM40
+# EEG Stress and Emotion Analysis — SAM40
+
 
 ## Overview
 
